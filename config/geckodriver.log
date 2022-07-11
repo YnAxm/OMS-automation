@@ -1,0 +1,91 @@
+1656579560792	geckodriver	INFO	Listening on 127.0.0.1:4191
+1656579563858	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\111\\AppData\\Local\\Temp\\rust_mozprofileMug5ow"
+1656579564364	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\111\\AppData\\Local\\Temp\\rust_mozprofileMug5ow\\search.json.mozlz4", (void 0)))
+1656579567367	Marionette	INFO	Listening on port 4201
+1656579567819	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.baidu.com"
+1656579573189	Marionette	INFO	Stopped listening on port 4201
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 12424, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1656579617705	geckodriver	INFO	Listening on 127.0.0.1:4284
+1656579620798	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\111\\AppData\\Local\\Temp\\rust_mozprofileJYCi4E"
+1656579621050	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\111\\AppData\\Local\\Temp\\rust_mozprofileJYCi4E\\search.json.mozlz4", (void 0)))
+1656579624394	Marionette	INFO	Listening on port 4292
+1656579625006	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.staticfile.org/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1656579629045	Marionette	INFO	Stopped listening on port 4292
+[Parent 16328, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+1656580083983	geckodriver	INFO	Listening on 127.0.0.1:28106
+1656580087066	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\111\\AppData\\Local\\Temp\\rust_mozprofilexKZMKQ"
+1656580087331	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\111\\AppData\\Local\\Temp\\rust_mozprofilexKZMKQ\\search.json.mozlz4", (void 0)))
+1656580090871	Marionette	INFO	Listening on port 28116
+1656580091259	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.staticfile.org/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://oms-dev.romens.cloud:8087"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://oms-dev.romens.cloud:8087"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://oms-dev.romens.cloud:8087"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1656580097557	Marionette	INFO	Stopped listening on port 28116
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 694: TypeError: this.tablesData[table] is undefined
+[Parent 4112, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1656580310309	geckodriver	INFO	Listening on 127.0.0.1:28337
+1656580313353	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\111\\AppData\\Local\\Temp\\rust_mozprofile7HusiJ"
+1656580313590	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\111\\AppData\\Local\\Temp\\rust_mozprofile7HusiJ\\search.json.mozlz4", (void 0)))
+1656580317180	Marionette	INFO	Listening on port 28347
+1656580317558	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.staticfile.org/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://oms-dev.romens.cloud:8087"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://oms-dev.romens.cloud:8087"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://oms-dev.romens.cloud:8087"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1656580438780	Marionette	INFO	Stopped listening on port 28347
+[Parent 18540, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1656580440374	geckodriver	INFO	Listening on 127.0.0.1:28445
+1656580443446	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\111\\AppData\\Local\\Temp\\rust_mozprofileUXhT7r"
+1656580443689	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\111\\AppData\\Local\\Temp\\rust_mozprofileUXhT7r\\search.json.mozlz4", (void 0)))
+1656580447049	Marionette	INFO	Listening on port 28459
+1656580447259	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.staticfile.org/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://oms-dev.romens.cloud:8087"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: http://oms-dev.romens.cloud:8087/static/js/chunk-e5483d74.65cb9796.js, line 1: TypeError: JSON.parse(...) is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://oms-dev.romens.cloud:8087"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://oms-dev.romens.cloud:8087"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1656580455425	Marionette	INFO	Stopped listening on port 28459
+1656580465671	geckodriver	INFO	Listening on 127.0.0.1:28528
+1656580468836	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\111\\AppData\\Local\\Temp\\rust_mozprofileJW70bT"
+1656580469072	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\111\\AppData\\Local\\Temp\\rust_mozprofileJW70bT\\search.json.mozlz4", (void 0)))
+1656580472239	Marionette	INFO	Listening on port 28536
+1656580472783	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.staticfile.org/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://oms-dev.romens.cloud:8087"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: http://oms-dev.romens.cloud:8087/static/js/chunk-e5483d74.65cb9796.js, line 1: TypeError: JSON.parse(...) is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://oms-dev.romens.cloud:8087"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://oms-dev.romens.cloud:8087"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1656580479421	Marionette	INFO	Stopped listening on port 28536
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
